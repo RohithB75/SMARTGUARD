@@ -254,3 +254,7 @@ python -m evaluation.eval
 SmartGuard demonstrates that a hybrid approach combining lightweight models and rule-based logic significantly improves prompt security while maintaining low latency.
 
 ---
+
+## 📊 Visual Analysis
+
+Graphs for accuracy, error comparison, and threshold tuning are available in the `results/` folder.
